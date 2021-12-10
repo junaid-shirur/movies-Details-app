@@ -1,4 +1,3 @@
-[Link to Google](https://www.google.com)
 
 # Getting Started with Create React App
 
